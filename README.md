@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
-This is some more text for Rebasing example
+This is some more text for Rebasing example, then more changes from myfeature
+branch too.
 
 ## Purpose
 
