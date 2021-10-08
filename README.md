@@ -15,4 +15,4 @@ Please fork this repo.
 
 ## Copyright
 
-Copy right notice
+Copy right notice, all rights reserved
